@@ -15,8 +15,8 @@
 
 .App-header {
     width: 100%;
-    background-color: #282c34;
-    min-height: 40vh;
+    background-color: #024610;
+    min-height: 20vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -25,8 +25,54 @@
     color: white;
 }
 
+.noBullet {
+    list-style-type: none;
+}
+
+.charmList {
+    list-style-type: none;
+    text-align: center;
+}
+
+.gameList {
+    text-align: left;
+}
+
+.pokeGif {
+    width: 100%;
+    max-width: 200px;
+}
+
+.infoTable {
+    height: 50%;
+}
+
+.shinyGame {
+    text-align: center;
+}
+
 .App-link {
     color: #61dafb;
+}
+
+.partialShiny {
+    color: #00cbe6;
+    text-align: left;
+}
+
+.fullShiny {
+    color: #30da3b;
+    text-align: left;
+}
+
+.noShiny {
+    color: red;
+    text-align: left;
+}
+
+.shinyLocked {
+    color: black;
+    text-align: left;
 }
 
 @keyframes App-logo-spin {

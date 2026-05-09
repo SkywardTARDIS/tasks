@@ -1,0 +1,141 @@
+{
+    "ShinyLocked": [
+        { "species": "Victini", "game": "All" },
+        { "species": "Hoopa", "game": "All" },
+        { "species": "Cosmog", "game": "All" },
+        { "species": "Cosmoem", "game": "All" },
+        { "species": "Magearna", "game": "All" },
+        { "species": "Marshadow", "game": "All" },
+        { "species": "Melmetal Gigantamax Form", "game": "All" },
+        { "species": "Kubfu", "game": "All" },
+        { "species": "Urshifu", "game": "All" },
+        { "species": "Urshifu", "game": "All" },
+        { "species": "Zarude", "game": "All" },
+        { "species": "Zarude", "game": "All" },
+        { "species": "Glastrier", "game": "All" },
+        { "species": "Spectrier", "game": "All" },
+        { "species": "Calyrex", "game": "All" },
+        { "species": "Wo-Chien", "game": "All" },
+        { "species": "Chien-Pao", "game": "All" },
+        { "species": "Ting-Lu", "game": "All" },
+        { "species": "Chi-Yu", "game": "All" },
+        { "species": "Koraidon", "game": "All" },
+        { "species": "Miraidon", "game": "All" },
+        { "species": "Walking Wake", "game": "All" },
+        { "species": "Iron Leaves", "game": "All" },
+        { "species": "Okidogi", "game": "All" },
+        { "species": "Munkidori", "game": "All" },
+        { "species": "Fezandipiti", "game": "All" },
+        { "species": "Ogerpon", "game": "All" },
+        { "species": "Gouging Fire", "game": "All" },
+        { "species": "Raging Bolt", "game": "All" },
+        { "species": "Iron Boulder", "game": "All" },
+        { "species": "Iron Crown", "game": "All" },
+        { "species": "Terapagos", "game": "All" },
+        { "species": "Pecharunt", "game": "All" },
+        { "species": "Reshiram", "game": "Pokémon Black 2 & White 2" },
+        { "species": "Zekrom", "game": "Pokémon Black 2 & White 2" },
+        { "species": "Articuno", "game": "Pokémon X & Y" },
+        { "species": "Zapdos", "game": "Pokémon X & Y" },
+        { "species": "Moltres", "game": "Pokémon X & Y" },
+        { "species": "Mewtwo", "game": "Pokémon X & Y" },
+        { "species": "Xerneas", "game": "Pokémon X & Y" },
+        { "species": "Yveltal", "game": "Pokémon X & Y" },
+        { "species": "Zygarde", "game": "Pokémon X & Y" },
+        { "species": "Kyogre", "game": "Pokémon Omega Ruby & Alpha Sapphire" },
+        { "species": "Groudon", "game": "Pokémon Omega Ruby & Alpha Sapphire" },
+        {
+            "species": "Rayquaza",
+            "game": "Pokémon Omega Ruby & Alpha Sapphire"
+        },
+        { "species": "Deoxys", "game": "Pokémon Omega Ruby & Alpha Sapphire" },
+        { "species": "Tapu Koko", "game": "Pokémon Sun & Moon" },
+        { "species": "Tapu Lele", "game": "Pokémon Sun & Moon" },
+        { "species": "Tapu Bulu", "game": "Pokémon Sun & Moon" },
+        { "species": "Tapu Fini", "game": "Pokémon Sun & Moon" },
+        { "species": "Cosmog", "game": "Pokémon Sun & Moon" },
+        { "species": "Solgaleo", "game": "Pokémon Sun & Moon" },
+        { "species": "Lunala", "game": "Pokémon Sun & Moon" },
+        { "species": "Nihilego", "game": "Pokémon Sun & Moon" },
+        { "species": "Buzzwole", "game": "Pokémon Sun & Moon" },
+        { "species": "Pheromosa", "game": "Pokémon Sun & Moon" },
+        { "species": "Xurkitree", "game": "Pokémon Sun & Moon" },
+        { "species": "Celesteela", "game": "Pokémon Sun & Moon" },
+        { "species": "Kartana", "game": "Pokémon Sun & Moon" },
+        { "species": "Guzzlord", "game": "Pokémon Sun & Moon" },
+        { "species": "Necrozma", "game": "Pokémon Sun & Moon" },
+        { "species": "Zygarde", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        { "species": "Tapu Koko", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        { "species": "Tapu Lele", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        { "species": "Tapu Bulu", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        { "species": "Tapu Fini", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        { "species": "Cosmog", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        { "species": "Solgaleo", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        { "species": "Lunala", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        { "species": "Necrozma", "game": "Pokémon Ultra Sun & Ultra Moon" },
+        {
+            "species": "Gigantamax Pikachu",
+            "game": "Pokémon Sword & Pokémon Shield"
+        },
+        {
+            "species": "Gigantamax Eevee",
+            "game": "Pokémon Sword & Pokémon Shield"
+        },
+        { "species": "Type: Null", "game": "Pokémon Sword & Pokémon Shield" },
+        { "species": "Zacian", "game": "Pokémon Sword & Pokémon Shield" },
+        { "species": "Zamazenta", "game": "Pokémon Sword & Pokémon Shield" },
+        { "species": "Eternatus", "game": "Pokémon Sword & Pokémon Shield" },
+        {
+            "species": "Cosmog",
+            "game": "Pokémon Sword & Pokémon Shield The Crown Tundra"
+        },
+        {
+            "species": "Poipole",
+            "game": "Pokémon Sword & Pokémon Shield The Crown Tundra"
+        },
+        {
+            "species": "Articuno-Galar",
+            "game": "Pokémon Sword & Pokémon Shield The Crown Tundra"
+        },
+        {
+            "species": "Zapdos-Galar",
+            "game": "Pokémon Sword & Pokémon Shield The Crown Tundra"
+        },
+        {
+            "species": "Moltres-Galar",
+            "game": "Pokémon Sword & Pokémon Shield The Crown Tundra"
+        },
+        {
+            "species": "Glastrier",
+            "game": "Pokémon Sword & Pokémon Shield The Crown Tundra"
+        },
+        {
+            "species": "Spectrier",
+            "game": "Pokémon Sword & Pokémon Shield The Crown Tundra"
+        },
+        {
+            "species": "Calyrex",
+            "game": "Pokémon Sword & Pokémon Shield The Crown Tundra"
+        },
+        { "species": "Alolan Vulpix", "game": "Pokémon Legends: Arceus" },
+        { "species": "Dialga", "game": "Pokémon Legends: Arceus" },
+        { "species": "Palkia", "game": "Pokémon Legends: Arceus" },
+        { "species": "Uxie", "game": "Pokémon Legends: Arceus" },
+        { "species": "Mesprit", "game": "Pokémon Legends: Arceus" },
+        { "species": "Azelf", "game": "Pokémon Legends: Arceus" },
+        { "species": "Heatran", "game": "Pokémon Legends: Arceus" },
+        { "species": "Regigigas", "game": "Pokémon Legends: Arceus" },
+        { "species": "Giratina", "game": "Pokémon Legends: Arceus" },
+        { "species": "Cresselia", "game": "Pokémon Legends: Arceus" },
+        { "species": "Phione", "game": "Pokémon Legends: Arceus" },
+        { "species": "Manaphy", "game": "Pokémon Legends: Arceus" },
+        { "species": "Darkrai", "game": "Pokémon Legends: Arceus" },
+        { "species": "Shaymin", "game": "Pokémon Legends: Arceus" },
+        { "species": "Arceus", "game": "Pokémon Legends: Arceus" },
+        { "species": "Tornadus", "game": "Pokémon Legends: Arceus" },
+        { "species": "Thundurus", "game": "Pokémon Legends: Arceus" },
+        { "species": "Landorus", "game": "Pokémon Legends: Arceus" },
+        { "species": "Gimmighoul", "game": "Pokémon Scarlet & Violet" },
+        { "species": "Gholdengo", "game": "Pokémon Scarlet & Violet" }
+    ]
+}
