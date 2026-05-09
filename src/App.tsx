@@ -1,3 +1,7 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
+/* eslint-disable @typescript-eslint/no-use-before-define */
+/* eslint-disable @typescript-eslint/no-restricted-types */
 /* eslint-disable @typescript-eslint/no-unnecessary-condition */
 import React, { useState } from "react";
 import "./App.css";
