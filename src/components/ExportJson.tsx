@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-use-before-define */
 /* eslint-disable @typescript-eslint/no-confusing-void-expression */
 import React from "react";
 import { Button } from "react-bootstrap";
